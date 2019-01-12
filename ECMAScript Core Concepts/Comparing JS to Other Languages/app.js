@@ -5,7 +5,7 @@ COMPARING JAVASCRIPT TO OTHER LANGUAGES
 
 
 ========================
-PYTHON LANGUAGE
+JAVASCRIPT
 ========================
 */
 
@@ -19,7 +19,7 @@ console.log(i)
 
 /*
 ========================
-PYTHON LANGUAGE
+PYTHON
 ========================
 
 i = 2;
@@ -30,13 +30,13 @@ for i in range(0,10):
 print "after all that i is: ",i
 
 ========================
-RUBY LANGUAGE
+RUBY
 ========================
 i = 2;
 puts i
 
 ========================
-C LANGUAGE
+C
 ========================
 #include "stdio.h"
 
